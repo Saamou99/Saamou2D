@@ -1,8 +1,6 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections;
 
 public class DelayedButton : MonoBehaviour
 {
@@ -10,7 +8,7 @@ public class DelayedButton : MonoBehaviour
     public float delayTime = 30f;
     public string sceneName = "Scene4";
 
-    private void Start()
+    void Start()
     {
         sceneButton.interactable = false;
         StartCoroutine(DelayButton());
@@ -24,6 +22,6 @@ public class DelayedButton : MonoBehaviour
 
     public void ChangeScene()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Scene4");
+        UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
     }
 }

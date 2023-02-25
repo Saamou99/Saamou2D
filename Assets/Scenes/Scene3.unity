@@ -459,7 +459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneButton: {fileID: 188715617}
-  delayTime: 30
+  delayTime: 20
   sceneName: Scene4
 --- !u!1 &310316248
 GameObject:
@@ -658,8 +658,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1148982209}
-  - component: {fileID: 1148982211}
   - component: {fileID: 1148982212}
+  - component: {fileID: 1148982213}
   m_Layer: 0
   m_Name: Music3
   m_TagString: Untagged
@@ -682,19 +682,6 @@ Transform:
   m_Father: {fileID: 1476091489}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1148982211
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1148982208}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e05faa94fca505749b3fb2909240be9e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  audioClip: {fileID: 8300000, guid: 93f5d4b9688efbd48bf32c801e51743c, type: 3}
 --- !u!82 &1148982212
 AudioSource:
   m_ObjectHideFlags: 0
@@ -791,6 +778,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1148982213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1148982208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e05faa94fca505749b3fb2909240be9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: 93f5d4b9688efbd48bf32c801e51743c, type: 3}
 --- !u!1 &1332693892
 GameObject:
   m_ObjectHideFlags: 0
