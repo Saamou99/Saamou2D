@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovementInput : MonoBehaviour
+public class Player2MovementInput : MonoBehaviour
 {
     private Vector2 movement;
     private Rigidbody2D rbody;
@@ -31,7 +31,6 @@ public class PlayerMovementInput : MonoBehaviour
             animator.SetBool("IsWalking", false);
         }
     }
-
     private void FixedUpdate()
     {
         rbody.velocity = movement * speed;
