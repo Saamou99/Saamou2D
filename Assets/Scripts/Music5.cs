@@ -30,7 +30,6 @@ public class Music5 : MonoBehaviour
             audioSource.volume = Mathf.Lerp(0f, 1f, currentTime / fadeTime);
             yield return null;
         }
-
         audioSource.volume = 1f; // set volume to 100%
     }
 }
