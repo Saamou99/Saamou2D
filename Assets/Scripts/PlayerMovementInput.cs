@@ -7,7 +7,7 @@ public class PlayerMovementInput : MonoBehaviour
     private Vector2 movement;
     private Rigidbody2D rbody;
     private Animator animator;
-    [SerializeField] private int speed = 100;
+    [SerializeField] private int speed = 10;
 
     private void Awake()
     {

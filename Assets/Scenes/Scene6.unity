@@ -221,6 +221,7 @@ GameObject:
   - component: {fileID: 639045095}
   - component: {fileID: 639045094}
   - component: {fileID: 639045093}
+  - component: {fileID: 639045096}
   m_Layer: 0
   m_Name: Batman
   m_TagString: Untagged
@@ -289,7 +290,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1564895425, guid: 459249befae0d4b4196b185e72c7cdbe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -383,7 +384,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.37, y: 0.65}
+    oldSize: {x: 0.38, y: 0.66}
     newSize: {x: 0.38, y: 0.66}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -392,6 +393,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.38, y: 0.66}
   m_EdgeRadius: 0
+--- !u!114 &639045096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639045089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1e01c613a25eef4c8e599d12a34ab43, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1 &889064306
 GameObject:
   m_ObjectHideFlags: 0
