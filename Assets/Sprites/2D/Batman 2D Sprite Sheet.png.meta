@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: 459249befae0d4b4196b185e72c7cdbe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8649e4a10fc46e64498bf9d09738180c
+      internalID: 91520293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 270
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf95a2743d8c2468db88c4772f3886
+      internalID: -783540547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 271
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fca23b739e6be45872becf1e1e9915
+      internalID: 1392932905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 274
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0eebdf34fe0514dbd3dae870f5827e
+      internalID: 1947403503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 275
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa916067595298f41a973fc759ff781e
+      internalID: -237937033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 274
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a9cd24f4f4a04c88a4638bfb1dc04
+      internalID: 1990391809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 271
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9670db3633f85d24a936caa9abc6aef0
+      internalID: -1771481826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 272
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a271f15668a74cb8fa4383b9f773f
+      internalID: -1202345024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 274
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3996e1340381f4143adb0295f38c3bd2
+      internalID: 1861706727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 272
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c2688e5425324186651bc0c359159
+      internalID: 1625164919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 274
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2462688a1dee3d4baf549457b762002
+      internalID: 243251173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 275
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba740442a7e6964084aa4c09b2bc9cc
+      internalID: -897877120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b239e64d5375c49b77fef07f0070c0
+      internalID: -1944294591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 202
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640ae750d985fcd47884afb98fe4643a
+      internalID: -1801664568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68118000006338141891c9182583af70
+      internalID: -427860135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826fe2019a405fb428649fa19dd63c02
+      internalID: -237527494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 204
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4be4dc2e853224b86c2941b947764d
+      internalID: 1265641800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 205
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73033cc32f6a5ed4eacefed9244472f5
+      internalID: -1018565363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 205
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ccd86cd0d63549b934f6047710093
+      internalID: 2058416832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 206
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9786a6c52bb89cf4185abd69c2536553
+      internalID: -6348274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 207
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e4527f5ba28c4aabbc8266824a881
+      internalID: -1892561486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 208
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90b63e004e21942b12a3b4629b794f
+      internalID: 183145227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 208
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c20793051810f469ac91d0f0d2805e
+      internalID: -1947695020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 209
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d562e835ffb4548b86e06c8dbb4175
+      internalID: 1264984007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f16d83d78c10a4daff4421e21ab022
+      internalID: 662224786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 142
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0950d76d763b15548a6b94a6109bc21b
+      internalID: 773729030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 142
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d947804824b23f24bb1376acb494bedf
+      internalID: -379124545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 139
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8ed3c21e03ee40a298373ea1eba65
+      internalID: -1648790895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4075555af0924897d1dc90caa0e54
+      internalID: 1571300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd5868fa362e14a8238df59b5f453d
+      internalID: 1519435249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 74
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a873a20250543434d9c8721942fa2595
+      internalID: 1663662506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29306ed7b4b283d4a804b88f05f1f327
+      internalID: -1007889237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 69
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965a95604fcd7a4e8467469e1e73e47
+      internalID: -2038874859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6267106b4bbeddc41b4f3f89c1720328
+      internalID: 762762075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 78
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3cf35fffdfd847a13abcc8c6c2387
+      internalID: -1383147463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 76
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f29f91a66babf47b4495195dd6b180
+      internalID: -39159980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 75
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021bb2f9e88bd4148acc418d8ce22159
+      internalID: -79974354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 79
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c9a5bc1b6132544bb09d88386174bb
+      internalID: 79881142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ecb8ce39c5a1429d4962fbd7664c7
+      internalID: -627550499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24d5cb5545c4c47838e96c3eec82a2
+      internalID: -2039824254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a223170ff4eda1d4d9ede2a15c0b4842
+      internalID: 1865533761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6274f7748cbbb4b9736f6b25b22d66
+      internalID: 1682243485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ce69d1ba6dde542bb601ea1286d644
+      internalID: -1544802152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494becc42f85c4541aa9f5d1ad6a0634
+      internalID: -1401688439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a35e6291e801e489eb41bfedb782c4
+      internalID: -1564895425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a84bb125687e94196bb5aaf1b663b5
+      internalID: 701065648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34e00d650c20674db5e6875745f4724
+      internalID: -531442982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman 2D Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b86dcf8bbd1cb4682b770bfbbf1ea1
+      internalID: -256100062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Batman 2D Sprite Sheet_16: 1265641800
+      Batman 2D Sprite Sheet_10: 243251173
+      Batman 2D Sprite Sheet_28: 1571300650
+      Batman 2D Sprite Sheet_3: 1947403503
+      Batman 2D Sprite Sheet_2: 1392932905
+      Batman 2D Sprite Sheet_43: -1401688439
+      Batman 2D Sprite Sheet_14: -427860135
+      Batman 2D Sprite Sheet_47: -256100062
+      Batman 2D Sprite Sheet_23: 1264984007
+      Batman 2D Sprite Sheet_6: -1771481826
+      Batman 2D Sprite Sheet_18: 2058416832
+      Batman 2D Sprite Sheet_26: -379124545
+      Batman 2D Sprite Sheet_34: -1383147463
+      Batman 2D Sprite Sheet_22: -1947695020
+      Batman 2D Sprite Sheet_37: 79881142
+      Batman 2D Sprite Sheet_12: -1944294591
+      Batman 2D Sprite Sheet_4: -237937033
+      Batman 2D Sprite Sheet_39: -2039824254
+      Batman 2D Sprite Sheet_8: 1861706727
+      Batman 2D Sprite Sheet_31: -1007889237
+      Batman 2D Sprite Sheet_44: -1564895425
+      Batman 2D Sprite Sheet_0: 91520293
+      Batman 2D Sprite Sheet_27: -1648790895
+      Batman 2D Sprite Sheet_40: 1865533761
+      Batman 2D Sprite Sheet_5: 1990391809
+      Batman 2D Sprite Sheet_25: 773729030
+      Batman 2D Sprite Sheet_29: 1519435249
+      Batman 2D Sprite Sheet_24: 662224786
+      Batman 2D Sprite Sheet_45: 701065648
+      Batman 2D Sprite Sheet_33: 762762075
+      Batman 2D Sprite Sheet_30: 1663662506
+      Batman 2D Sprite Sheet_32: -2038874859
+      Batman 2D Sprite Sheet_46: -531442982
+      Batman 2D Sprite Sheet_7: -1202345024
+      Batman 2D Sprite Sheet_41: 1682243485
+      Batman 2D Sprite Sheet_20: -1892561486
+      Batman 2D Sprite Sheet_13: -1801664568
+      Batman 2D Sprite Sheet_19: -6348274
+      Batman 2D Sprite Sheet_36: -79974354
+      Batman 2D Sprite Sheet_9: 1625164919
+      Batman 2D Sprite Sheet_17: -1018565363
+      Batman 2D Sprite Sheet_11: -897877120
+      Batman 2D Sprite Sheet_35: -39159980
+      Batman 2D Sprite Sheet_1: -783540547
+      Batman 2D Sprite Sheet_38: -627550499
+      Batman 2D Sprite Sheet_15: -237527494
+      Batman 2D Sprite Sheet_42: -1544802152
+      Batman 2D Sprite Sheet_21: 183145227
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

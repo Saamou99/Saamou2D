@@ -27,9 +27,9 @@ public class Music5 : MonoBehaviour
         while (currentTime < fadeTime)
         {
             currentTime += Time.deltaTime;
-            audioSource.volume = Mathf.Lerp(0f, 1f, currentTime / fadeTime);
+            audioSource.volume = Mathf.Lerp(0f, 0.8f, currentTime / fadeTime);
             yield return null;
         }
-        audioSource.volume = 1f; // set volume to 100%
+        audioSource.volume = 0.8f; // set volume to 100%
     }
 }
