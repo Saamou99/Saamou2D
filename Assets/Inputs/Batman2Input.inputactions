@@ -1,14 +1,14 @@
 {
-    "name": "BatmanInput",
+    "name": "Batman2Input",
     "maps": [
         {
             "name": "InGame",
-            "id": "1ca0b042-1d39-45d5-8bce-c23e29f3aadb",
+            "id": "cb245197-36f1-4d11-9422-423da1b81dbb",
             "actions": [
                 {
                     "name": "Movement",
                     "type": "Value",
-                    "id": "592d69e5-444e-4804-b1a6-eb656787af17",
+                    "id": "1a136f60-c681-41f0-b729-a6d432b7595e",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -18,7 +18,7 @@
             "bindings": [
                 {
                     "name": "WSAD",
-                    "id": "01a8316f-2288-4b9d-b52b-cd06e2160959",
+                    "id": "3647bcf0-880a-4258-badc-fa10f8688066",
                     "path": "2DVector",
                     "interactions": "",
                     "processors": "",
@@ -29,8 +29,8 @@
                 },
                 {
                     "name": "left",
-                    "id": "6ff2e4e9-95e0-4fac-be45-719e982befe2",
-                    "path": "<Keyboard>/a",
+                    "id": "3aefb7d9-2e69-4e9d-9ab1-1dc55281eac8",
+                    "path": "<Keyboard>/leftArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -40,8 +40,8 @@
                 },
                 {
                     "name": "right",
-                    "id": "705f002e-32a7-413a-af92-2a79aab8ae4e",
-                    "path": "<Keyboard>/d",
+                    "id": "7657373f-776b-4cef-be94-5ce205e3bcac",
+                    "path": "<Keyboard>/rightArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
