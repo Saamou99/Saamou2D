@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,7 +127,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 154
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83319d2b625dd42ad2a2ea5aa1157f
+      internalID: 1471935981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 140
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc98e71e4ee3a0418f998609e7cf717
+      internalID: -1151280257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 160
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152087ef7ad8d454d98e39401888bc4c
+      internalID: -1640883294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 158
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f28ebe07cd8c04e9150d8faa81f9eb
+      internalID: 686661418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 156
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a6a9f50e89f140ae231e9b571cb88
+      internalID: -1424829153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 142
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff6e89cf2fd3ae49bab1cad71d0cf6a
+      internalID: 512968222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 158
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6131fe7bf0564d8f9e78043611255
+      internalID: 306741224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 156
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed51663d9076754f895e3ee9359757b
+      internalID: 1066064359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e7731ada2a3049b45affd6ceaa05b
+      internalID: 1880192452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec442d9995829449ba8441309663e5e
+      internalID: 1348500349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59467db11c2fb764692cdc4c04e87e1f
+      internalID: -281316338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 16
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7db0c1712c084ab906bd8d7673c0b
+      internalID: -1117006799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 18
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3a812040e0f142a5c53de7b012d17
+      internalID: -1560772805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 20
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d54945c75f2fb4a85f751c6111f9e0
+      internalID: -989449270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d13de723f79f748b87dc8d18c8ded5
+      internalID: 1930288448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ben10 2D Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 14
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3722a8e38b47524b92e9e55b0104395
+      internalID: -672819612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +474,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ben10 2D Sprite Sheet_12: -1560772805
+      Ben10 2D Sprite Sheet_5: 512968222
+      Ben10 2D Sprite Sheet_4: -1424829153
+      Ben10 2D Sprite Sheet_15: -672819612
+      Ben10 2D Sprite Sheet_3: 686661418
+      Ben10 2D Sprite Sheet_13: -989449270
+      Ben10 2D Sprite Sheet_1: -1151280257
+      Ben10 2D Sprite Sheet_7: 1066064359
+      Ben10 2D Sprite Sheet_9: 1348500349
+      Ben10 2D Sprite Sheet_0: 1471935981
+      Ben10 2D Sprite Sheet_10: -281316338
+      Ben10 2D Sprite Sheet_11: -1117006799
+      Ben10 2D Sprite Sheet_2: -1640883294
+      Ben10 2D Sprite Sheet_8: 1880192452
+      Ben10 2D Sprite Sheet_14: 1930288448
+      Ben10 2D Sprite Sheet_6: 306741224
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
